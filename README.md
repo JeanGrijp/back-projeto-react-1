@@ -1,1 +1,3 @@
-# back-projeto-react-1
+# Strapi application
+
+A quick description of your strapi application
